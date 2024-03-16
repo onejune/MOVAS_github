@@ -1,0 +1,4 @@
+type=command
+retries=3
+dependencies=kudu_data_for_fm
+command=sh -x ./run_creative_fm.sh

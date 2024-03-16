@@ -1,0 +1,2 @@
+type=command
+command=sh -x ./kudu_data_for_fm.sh

@@ -1,0 +1,3 @@
+type=command
+retries=2
+command=sh -x getCreativeModelDataLastDay.sh
